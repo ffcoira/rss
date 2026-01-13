@@ -1,45 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0"
-	xmlns:atom="http://www.w3.org/2005/Atom" 
-	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-  	xmlns:media="http://search.yahoo.com/mrss/"
-  	xmlns:dcterms="http://purl.org/dc/terms/" 
-	xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-
-						<title>Noticias de A Coruña</title>
-		<link>https://www.lavozdegalicia.es/coruna/index.htm</link>
-		<description>Noticias de A Coruña en lavozdegalicia.es</description>
-		<pubDate>Tue, 13 Jan 2026 10:18:26 +0100</pubDate>
-        <language>es-es</language>
-        <copyright>LA VOZ DE GALICIA S.A.</copyright>
-        <image>
-			<url>https://www.lavozdegalicia.es/assets/themes/lvdg2016/images/logo_rss.png</url>
-			<title>Noticias de A Coruña</title>
-			<link>https://www.lavozdegalicia.es/coruna/index.htm</link>
-        </image>
-		<atom:link rel="self" type="application/rss+xml" href="https://www.lavozdegalicia.es/coruna/index.xml"/>		
-													
-
-
-
-
-<item>
-	<title><![CDATA[Los taxistas cortan Alfonso Molina y el centro de A Coruña esta mañana en protesta contra los VTC]]></title>
+	<title>Noticias de A Coruña</title>
+	<item>
+		<title><![CDATA[Los taxistas cortan Alfonso Molina y el centro de A Coruña esta mañana en protesta contra los VTC]]></title>
 	</item>
-
-
-
-														
-
-
-
-
-<item>
-	<title><![CDATA[Un accidente en el acceso a los Maristas colapsa el tráfico en Eirís de Abaixo, en A Coruña]]></title>
-	
-	</item>
-												
-						</channel>
+	<item>
+		<title><![CDATA[Un accidente en el acceso a los Maristas colapsa el tráfico en Eirís de Abaixo, en A Coruña]]></title>	
+	</item>							
+	</channel>
 </rss>
+
 
