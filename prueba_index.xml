@@ -5,13 +5,16 @@
 		<link>https://www.lavozdegalicia.es/coruna/index.htm</link>
     	<description>Noticias de A Coruña</description>
 		<item>
-			<title><![CDATA[Los taxistas cortan Alfonso Molina y el centro de A Coruña esta mañana en protesta contra los VTC]]></title>
+			<title>Los taxistas cortan Alfonso Molina y el centro de A Coruña esta mañana en protesta contra los VTC</title>
+			<link>https://www.lavozdegalicia.es/coruna/noticia1.htm</link>
 		</item>
 		<item>
-			<title><![CDATA[Un accidente en el acceso a los Maristas colapsa el tráfico en Eirís de Abaixo, en A Coruña]]></title>	
+			<title>Un accidente en el acceso a los Maristas colapsa el tráfico en Eirís de Abaixo, en A Coruña</title>
+			<link>https://www.lavozdegalicia.es/coruna/noticia2.htm</link>
 		</item>							
 	</channel>
 </rss>
+
 
 
 
