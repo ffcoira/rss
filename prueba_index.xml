@@ -1,19 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom" 
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  	xmlns:media="http://search.yahoo.com/mrss/"
+  	xmlns:dcterms="http://purl.org/dc/terms/" 
+	xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Noticias de A Coruña</title>
+
+						<title>Noticias de A Coruña</title>
 		<link>https://www.lavozdegalicia.es/coruna/index.htm</link>
-    	<description>Noticias de A Coruña</description>
-		<item>
-			<title>Los taxistas cortan Alfonso Molina y el centro de A Coruña esta mañana en protesta contra los VTC</title>
-			<link>https://www.lavozdegalicia.es/coruna/noticia1.htm</link>
-		</item>
-		<item>
-			<title>Un accidente en el acceso a los Maristas colapsa el tráfico en Eirís de Abaixo, en A Coruña</title>
-			<link>https://www.lavozdegalicia.es/coruna/noticia2.htm</link>
-		</item>							
-	</channel>
+		<description>Noticias de A Coruña en lavozdegalicia.es</description>
+		<pubDate>Wed, 14 Jan 2026 12:39:20 +0100</pubDate>
+        <language>es-es</language>
+        <copyright>LA VOZ DE GALICIA S.A.</copyright>
+        <image>
+			<url>https://www.lavozdegalicia.es/assets/themes/lvdg2016/images/logo_rss.png</url>
+			<title>Noticias de A Coruña</title>
+			<link>https://www.lavozdegalicia.es/coruna/index.htm</link>
+        </image>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.lavozdegalicia.es/coruna/index.xml"/>		
+													
+
+
+
+
+<item>
+	<title><![CDATA[Una vecina del hombre muerto en su piso en Oleiros: «<span lang="gl">É normal que a forense non entrase, había montañas de lixo, na nosa casa tiñamos moscas</span>»]]></title>
+	<link>https://www.lavozdegalicia.es/noticia/coruna/oleiros/2026/01/14/vecina-hombre-muerto-piso-oleiros-span-langgle-normal-forense-non-entrase-habia-montanas-lixo-na-nosa-casa-tinamos-moscasspan/00031768382616167219446.htm</link>
+	<description><![CDATA[
+		El fallecido vivía solo, se comunicaba «por carta» y sufría síndrome de Diógenes				
+	]]></description>
+	<category>Oleiros</category>
+   	<category>Oleiros</category>
+		<category>Guardia Civil</category>
+		<content:encoded><![CDATA[
+		<p>El fallecido vivía solo, se comunicaba «por carta» y sufría síndrome de Diógenes</p>
+		
+		]]>
+	</content:encoded>	
+				   							
+					<media:content
+				medium="image" 
+				width="768"
+				url="https://cflvdg.avoz.es/sc/2W40E7jMR3gVXlpztHOVSZdojwU=/768x/2026/01/14/00121768381802638839442/Foto/i_20260114_092438000.jpg"/>	
+				  
+		<pubDate><![CDATA[Wed, 14 Jan 2026 10:33:00 +0100]]></pubDate>
+	<guid isPermaLink="true">https://www.lavozdegalicia.es/noticia/coruna/oleiros/2026/01/14/vecina-hombre-muerto-piso-oleiros-span-langgle-normal-forense-non-entrase-habia-montanas-lixo-na-nosa-casa-tinamos-moscasspan/00031768382616167219446.htm</guid>
+	<dc:creator><![CDATA[M. M.]]></dc:creator>
+		<dcterms:accessRights>free</dcterms:accessRights>
+	</item>
+
+
+
+														
+
+
+
+
+<item>
+	<title><![CDATA[Atasco a primera hora en Juan Flórez, en A Coruña, por la avería de un autobús]]></title>
+	<link>https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/01/14/atasco-primera-hora-juan-florez-coruna-averia-autobus/00031768380974518448718.htm</link>
+	<description><![CDATA[
+		El vehículo se quedó parado en mitad de la calzada y la circulación se redujo a un único carril				
+	]]></description>
+	<category>A Coruña ciudad</category>
+   	<category>A Coruña ciudad</category>
+		<category>Arriva</category>
+		<category>Tráfico</category>
+		<content:encoded><![CDATA[
+		<p>El vehículo se quedó parado en mitad de la calzada y la circulación se redujo a un único carril</p>
+		
+		]]>
+	</content:encoded>	
+				   							
+					<media:content
+				medium="image" 
+				width="768"
+				url="https://cflvdg.avoz.es/sc/Zq5ikUgp6ipGNSwZbapnlmTHdb4=/768x/2026/01/14/00121768380924796442460/Foto/bus.jpg"/>	
+				  
+		<pubDate><![CDATA[Wed, 14 Jan 2026 10:05:00 +0100]]></pubDate>
+	<guid isPermaLink="true">https://www.lavozdegalicia.es/noticia/coruna/coruna/2026/01/14/atasco-primera-hora-juan-florez-coruna-averia-autobus/00031768380974518448718.htm</guid>
+	<dc:creator><![CDATA[F. Molezún / T. R.]]></dc:creator>
+		<dcterms:accessRights>free</dcterms:accessRights>
+	</item>						
+		</channel>
 </rss>
+
 
 
 
