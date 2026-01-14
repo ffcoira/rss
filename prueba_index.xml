@@ -1,27 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-  <channel>
-    <title>¡Chanel News!</title> <!-- Título del canal -->
-    <link>www.chanel.com</link> <!-- URL principal de Chanel -->
-    <description>Las últimas novedades y noticias de Chanel.</description> <!-- Descripción del canal -->
-    <lastBuildDate>Wed, 14 Jan 2026 10:00:00 GMT</lastBuildDate> <!-- Fecha de última actualización -->
-    <ttl>60</ttl> <!-- Tiempo de vida en minutos (cada cuánto refrescar) -->
+<channel>
+  <title><![CDATA[¡Chanel News!]]></title>
+  <link>https://www.chanel.com</link>
+  <description><![CDATA[Las últimas novedades y noticias de Chanel.]]></description>
+  <lastBuildDate>Wed, 14 Jan 2026 10:00:00 GMT</lastBuildDate>
+  <ttl>60</ttl>
 
-    <item>
-      <title>Título de la Noticia o Producto</title> <!-- Título del artículo/noticia -->
-      <link>www.chanel.comarticulo-noticia-1</link> <!-- URL del artículo -->
-      <description>Breve descripción del contenido.</description> <!-- Descripción del contenido -->
-      <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate> <!-- Fecha de publicación -->
-      <guid isPermaLink="true">www.chanel.comarticulo-noticia-1</guid> <!-- Identificador único -->
-    </item>
+  <!-- Primer artículo -->
+  <item>
+    <title><![CDATA[Título de la Noticia o Producto]]></title>
+    <link>https://www.chanel.com/articulo-noticia-1</link>
+    <description><![CDATA[Breve descripción del contenido.]]></description>
+    <pubDate>Wed, 14 Jan 2026 09:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.chanel.com/articulo-noticia-1</guid>
+  </item>
 
-    <item>
-      <title>Otro Producto Destacado</title>
-      <link>www.chanel.comproducto-x</link>
-      <description>Información sobre este nuevo producto.</description>
-      <pubDate>Tue, 13 Jan 2026 15:00:00 GMT</pubDate>
-      <guid isPermaLink="true">www.chanel.comproducto-x</guid>
-    </item>
-    <!-- Más ítems (noticias/productos) aquí -->
-  </channel>
+  <!-- Segundo artículo -->
+  <item>
+    <title><![CDATA[Otro Producto Destacado]]></title>
+    <link>https://www.chanel.com/producto-x</link>
+    <description><![CDATA[Información sobre este nuevo producto.]]></description>
+    <pubDate>Tue, 13 Jan 2026 15:00:00 GMT</pubDate>
+    <guid isPermaLink="true">https://www.chanel.com/producto-x</guid>
+  </item>
+
+</channel>
 </rss>
