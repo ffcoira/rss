@@ -1,0 +1,34 @@
+{
+    "rss": {
+        "-version": "2.0",
+        "channel": {
+            "title": "¡Chanel News!",
+            "link": "https://www.chanel.com",
+            "description": "Las últimas novedades y noticias de Chanel.",
+            "lastBuildDate": "Wed, 14 Jan 2026 10:00:00 GMT",
+            "ttl": "60",
+            "item": [
+                {
+                    "title": "Título de la Noticia o Producto",
+                    "link": "https://www.chanel.com/articulo-noticia-1",
+                    "description": "Breve descripción del contenido.",
+                    "pubDate": "Wed, 14 Jan 2026 09:00:00 GMT",
+                    "guid": {
+                        "-isPermaLink": "true",
+                        "#text": "https://www.chanel.com/articulo-noticia-1"
+                    }
+                },
+                {
+                    "title": "Otro Producto Destacado",
+                    "link": "https://www.chanel.com/producto-x",
+                    "description": "Información sobre este nuevo producto.",
+                    "pubDate": "Tue, 13 Jan 2026 15:00:00 GMT",
+                    "guid": {
+                        "-isPermaLink": "true",
+                        "#text": "https://www.chanel.com/producto-x"
+                    }
+                }
+            ]
+        }
+    }
+}
